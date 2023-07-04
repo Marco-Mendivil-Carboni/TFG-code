@@ -1,6 +1,6 @@
 # Final Project of Marco Mendívil Carboni
 
-This repository contains the code of my final project at university (excluding binaries, output files, images and pdf's). The objective of the project is to simulate with Langevin (and Brownian) dynamics a coarse-grained model of a polymer and investigate some of its equilibrium and dynamical properties.
+This repository contains the code of my final project at university. The objective of the project is to simulate with Langevin (and Brownian) dynamics a coarse-grained model of a polymer and investigate some of its equilibrium and dynamical properties.
 
 ## Contents
 
