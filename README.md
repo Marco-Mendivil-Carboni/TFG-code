@@ -2,6 +2,8 @@
 
 This repository contains the code of my final project at university. The objective of the project is to simulate with Langevin (and Brownian) dynamics a coarse-grained model of a polymer and investigate some of its equilibrium and dynamical properties.
 
+> **Note**: This project is finished and I will not develop it further. Still, I would appreciate if anyone could let me know of any bugs or mistakes. I will try to fix them since I hope this code serves as a reference to anyone trying to do their own molecular dynamics simulation programs in CUDA.
+
 ## Contents
 
 | filename | description |
